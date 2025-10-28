@@ -118,5 +118,5 @@ Below is a showcase of my successful projects, demonstrating expertise across HR
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=fahadshabeer&style=for-the-badge&color=blue" alt="Profile views" />
 </div>
