@@ -1,122 +1,104 @@
 <div align="center">
-  <a href="https://pk.linkedin.com/in/fahad-shabir-943a31221" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://raw.githubusercontent.com/fahadshabeer/fahadshabeer/main/assets/banner.gif" alt="Welcome to my GitHub Profile Banner" />
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/fahad-shabir-943a31221" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:fadiktk000@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="YOUR_WEBSITE_OR_BLOG_URL" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+  <a href="https://github.com/fahadshabeer" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </div>
 
+---
+
 # Hi there! I'm Fahad Shabir 👋
 
-### 🚀 Senior Flutter Engineer | 4+ Years of Cross-Platform Expertise
+### 🚀 Senior Flutter Engineer | Architecting Mobile Excellence
 
-[cite_start]I'm a highly skilled and results-driven **Senior Flutter Developer** with over **4 years** of experience in designing, developing, and deploying high-performance, scalable cross-platform mobile applications for **Android** and **iOS**[cite: 5].
+I'm a **Senior Flutter Developer** with **4+ years** of hands-on experience in the mobile ecosystem, specializing in building and deploying high-performance, scalable applications for **Android** and **iOS**. My passion is transforming complex business needs into clean, user-centric mobile solutions using **Dart** and the **Flutter framework**.
 
-[cite_start]I am proficient in **Dart** and the **Flutter framework**, with a proven track record of delivering user-centric mobile solutions[cite: 6]. [cite_start]I specialize in API integration, performance optimization, and collaborating with cross-functional teams to translate business requirements into technical solutions[cite: 7, 8].
+I thrive on **API integration**, **performance optimization**, and leading development efforts to deliver production-ready apps that genuinely solve problems for users worldwide.
 
 ---
 
 ## 🛠️ My Expert Toolkit
 
-| Area | Technologies & Tools |
+| Category | Skills & Tools |
 | :--- | :--- |
-| **Framework & Language** | `Flutter` • `Dart` |
-| **State Management** | [cite_start]`Bloc Cubit` • `GetX` • `Provider` [cite: 10] |
-| **Backend/Cloud** | [cite_start]`Firebase Auth` • `Rest API's Integration` [cite: 10] |
-| **App Services** | [cite_start]`AdMob Integration` • `Google Maps` • `Push Notification` • `Localisation` [cite: 10] |
-| **Monetization** | [cite_start]`InApp purchases/Subscription` [cite: 10] |
-| **Deployment** | [cite_start]`Xcode/Appstore publishing` • `Play Console` [cite: 10] |
-| **Analytics** | [cite_start]`Google Analysis` [cite: 10] |
+| **Framework & Language** | `Flutter` • `Dart` 💙 |
+| **State Management** | `Bloc Cubit` • `GetX` • `Provider` ✨ |
+| **Backend & Cloud** | `Firebase Auth` • `Rest API's Integration` ☁️ |
+| **App Capabilities** | `Push Notification` • `Google Maps` • `Localisation` 🌐 |
+| **Monetization** | `InApp purchases/Subscription` • `AdMob Integration` 💰 |
+| **Deployment** | `Xcode/Appstore publishing` • `Play Console` 🚀 |
 
 ---
 
-## 🏆 Portfolio: Key Successful Projects (All Apps)
+## 💼 Career Highlights
 
-Below is a showcase of my successful projects, demonstrating expertise across HR, E-commerce, Education, and Utilities:
-
-### **HR & Management Solutions**
-* **1. YouFirst HRMS**
-    * [cite_start]**Description:** A powerful HRM app simplifying employee management with **facial recognition** and location-based **attendance tracking**, payslip access, and request management[cite: 71, 72, 73, 74].
-    * [cite_start]*PlayStore:* [YouFirst HRMS](https://play.google.com/store/apps/details?id=com.jmmtech.hrmemployee.hrm_employee) 
-* **8. HR-Hysabat**
-    * [cite_start]**Description:** A human resource management app for businesses, providing tools for managing employee data, attendance, payroll, and other HR functions[cite: 111, 112].
-    * [cite_start]*PlayStore:* [HR-Hysabat](https://play.google.com/store/apps/details?id=com.jmmtechnologies.hrm&hl=en&gl=US) 
-
-### **E-commerce, Delivery & WMS**
-* **3. Isnaad WMS**
-    * [cite_start]**Description:** Offers intelligent technological solutions for **inventory management**, order processing, shipping, and related consultations[cite: 87, 88].
-    * [cite_start]*PlayStore:* [Isnaad WMS (Android)](https://play.google.com/store/apps/details?id=com.isnaad&hl=en&gl=US) 
-    * [cite_start]*App Store:* [Isnaad WMS (iOS)](https://apps.apple.com/pk/app/isnaad/id1638320059) 
-* **6. Tojjar Delivery App**
-    * [cite_start]**Description:** A multi-portal app (Delivery boy and Sale agent) for order delivery and registering small stores with the wholesale e-commerce shop[cite: 102, 103, 104, 105].
-    * [cite_start]*App Store:* [Tojjar Delivery App](https://apps.apple.com/pk/app/tojjar-delivery-application/id6450411233) 
-* **7. Tojjar Ecommerce**
-    * [cite_start]**Description:** An e-commerce platform allowing users to browse and purchase products with a seamless shopping experience and secure payment options[cite: 107, 108].
-    * [cite_start]*App Store:* [Tojjar Ecommerce](https://apps.apple.com/pk/app/tojjar-ecommerce-application/id6450448843) 
-* **5. AlRawdh**
-    * [cite_start]**Description:** An online cosmetic shopping app offering a wide range of high-quality cosmetic products, including skincare, makeup, and fragrances[cite: 98, 99, 100].
-    * [cite_start]*App Store:* [AlRawdh](https://apps.apple.com/pk/app/alrawdh/id6446835257) 
-
-### **Education & Fitness**
-* **9. KIU-Student & 10. KIU-Executive**
-    * [cite_start]**Description:** Student and Executive information system apps for Kingdom International University (KIU), offering features like course registration, grades tracking, finance, and admissions[cite: 116, 117, 120].
-    * [cite_start]*PlayStore (Student):* [KIU-Student](https://play.google.com/store/apps/details?id=com.kiu.sis_student_faculty&hl=en&gl=US) 
-    * [cite_start]*PlayStore (Executive):* [KIU-Executive](https://play.google.com/store/apps/details?id=com.jmmtechnologies.kiu_sis_ex_fi_sp&hl=en&gl=US) 
-* **19. Path to Arabic Mobile App**
-    * [cite_start]**Description:** A gateway to learning Arabic step-by-step to help users understand the Quran, featuring engaging lessons and live tutor support[cite: 168].
-    * [cite_start]*PlayStore (Android) & App Store (iOS)* (Titles in CV) [cite: 165, 166]
-* **4. Jawline**
-    * [cite_start]**Description:** A fitness app focused on jawline enhancement through specific exercises and mewing techniques[cite: 93, 94].
-    * [cite_start]*App Store:* [Jawline (iOS)](https://apps.apple.com/pk/app/jawline-face-exercise-mewing/id6478913365) 
-    * [cite_start]*PlayStore:* [Jawline (Android)](https://play.google.com/store/apps/details?id=com.jawline.exercise.mewing.jawlineworkout&hl=en&gl=US) 
-
-### **Productivity & Utilities**
-* **2. CV Maker**
-    * [cite_start]**Description:** An AI-powered resume builder that helps users create professional CVs with customizable templates[cite: 80].
-    * [cite_start]*App Store (Title):* `CV Maker - Al Resume Builder` 
-* **13. Smart Resume Builder**
-    * [cite_start]**Description:** A resume creation tool with various templates and customization options for quickly crafting professional resumes[cite: 136, 137].
-    * [cite_start]*PlayStore:* [Smart Resume Builder](https://play.google.com/store/apps/details?id=com.resumebuilder.cvmaker.cvtemplate.resumetemplate&hl=en&gl=US) 
-* **14. Password Manager**
-    * [cite_start]**Description:** A secure app for managing and storing passwords, offering features like auto-fill, password generation, and encryption[cite: 141, 142].
-    * [cite_start]*PlayStore:* [Password Manager](https://play.google.com/store/apps/details?id=com.autopasswordmanager.lastpasswordsaver&hl=en&gl=US) 
-* **15. Language Translator All**
-    * [cite_start]**Description:** An all-in-one solution for seamless communication worldwide with advanced image translator capabilities[cite: 146, 147].
-    * [cite_start]*App Store:* [Language Translator All](https://apps.apple.com/pk/app/language-translator-all/id6503053255) 
-
-### **Other & Specialty**
-* **17. Happy Helper**
-    * [cite_start]**Description:** Provides complimentary services from housekeeping to babysitting to services at events, with bespoke support[cite: 156, 157, 158].
-    * [cite_start]*PlayStore:* [Happy Helper](https://play.google.com/store/apps/details?id=com.happyhelper.app) 
-* **12. C-Exchange: Buy and Sell Crypto**
-    * [cite_start]**Description:** Committed to providing the highest levels of trust, security, and credibility for buying and selling crypto[cite: 131].
-    * [cite_start]*PlayStore:* [C-Exchange](https://play.google.com/store/apps/details?id=com.cexchange.app&hl=en&gl=US) 
-* **16. Hijria**
-    * [cite_start]**Description:** An Islamic calendar app displaying Hijri dates along with important Islamic events and holidays[cite: 152, 153].
-    * [cite_start]*App Store:* [Hijria (iOS)](https://apps.apple.com/pk/app/hijria/id1623978880) 
-    * [cite_start]*PlayStore:* [Hijria (Android)](https://play.google.com/store/apps/details?id=com.jmmtechnologies.hijricalendar&hl=en&gl=US) 
-* **11. Marconni Tennis**
-    * [cite_start]**Description:** A simple app to let users know if tennis lessons are on or off at the Marconi Tennis Academy[cite: 126, 128].
-    * [cite_start]*PlayStore:* [Marconni Tennis](https://play.google.com/store/apps/details?id=com.status.tennis&hl=en&gl=US) 
-* **20. Snack Video Downloader**
-    * [cite_start]**Description:** A robust app designed for downloading video content, allowing users to easily download Social Videos in HD quality[cite: 173, 174].
-    * [cite_start]*PlayStore (Title):* `Snack Video Downloader Link` 
+* **Senior Flutter Engineer** | CloudLaunch (London, UK - REMOTE)
+    * Developing and maintaining core mobile and **Flutter web applications**, focusing on robust performance and scalability.
+* **Part Time Mobile Developer & Maintainer** | Happy Helpers LLC (Dubai, UAE - REMOTE)
+    * **Built the Happy Helpers app from scratch** and managed its full lifecycle, including feature development and team mentorship.
+* *Expertise:* Strong proficiency in leading teams, mentoring junior developers, and ensuring superior code quality.
 
 ---
 
-## 📈 GitHub Stats
+## 🌐 My Portfolio: 20+ Published Applications
+
+I have successfully launched numerous complex, feature-rich applications across various domains, including HRM, E-commerce, Education, and Utilities.
+
+### **🏢 HR & Business Management**
+| App Name | Description | Links |
+| :--- | :--- | :--- |
+| **1. YouFirst HRMS** | Advanced HR app with **facial recognition** and location-based **attendance tracking**. | [Play Store](https://play.google.com/store/apps/details?id=com.jmmtech.hrmemployee.hrm_employee) |
+| **2. HR-Hysabat** | Business HR app for managing employee data, attendance, and payroll operations. | [Play Store](https://play.google.com/store/apps/details?id=com.jmmtechnologies.hrm&hl=en&gl=US) |
+| **3. Isnaad WMS** | Intelligent system for **inventory management**, order processing, and shipping solutions. | [Play Store](https://play.google.com/store/apps/details?id=com.isnaad&hl=en&gl=US) • [App Store](https://apps.apple.com/pk/app/isnaad/id1638320059) |
+| **4. KIU-Student & KIU-Executive** | Student/Executive information system for Kingdom International University (KIU). | [Play Store (Student)](https://play.google.com/store/apps/details?id=com.kiu.sis_student_faculty&hl=en&gl=US) • [Play Store (Executive)](https://play.google.com/store/apps/details?id=com.jmmtechnologies.kiu_sis_ex_fi_sp&hl=en&gl=US) |
+
+### **🛒 E-commerce & Service**
+| App Name | Description | Links |
+| :--- | :--- | :--- |
+| **5. Tojjar Ecommerce** | A complete wholesale e-commerce platform for seamless product browsing and secure payments. | [App Store](https://apps.apple.com/pk/app/tojjar-ecommerce-application/id6450448843) |
+| **6. Tojjar Delivery App**| Multi-portal app (Delivery & Sale Agent) for managing and executing orders. | [App Store](https://apps.apple.com/pk/app/tojjar-delivery-application/id6450411233) |
+| **7. AlRawdh** | Online cosmetic shopping app featuring skincare, makeup, and fragrances. | [App Store](https://apps.apple.com/pk/app/alrawdh/id6446835257) |
+| **8. Happy Helper** | Service app providing house-keeping, babysitting, nannies, and event support. | [Play Store](https://play.google.com/store/apps/details?id=com.happyhelper.app) |
+
+### **🧠 Productivity, Utilities & Lifestyle**
+| App Name | Description | Links |
+| :--- | :--- | :--- |
+| **9. CV Maker (AI-powered)** | An AI-powered resume builder with professional, customizable templates. | *App Store (Title): CV Maker - Al Resume Builder* |
+| **10. Smart Resume Builder** | A utility tool with various templates for quickly crafting professional resumes. | [Play Store](https://play.google.com/store/apps/details?id=com.resumebuilder.cvmaker.cvtemplate.resumetemplate&hl=en&gl=US) |
+| **11. Password Manager** | Secure app with auto-fill, password generation, and encryption. | [Play Store](https://play.google.com/store/apps/details?id=com.autopasswordmanager.lastpasswordsaver&hl=en&gl=US) |
+| **12. Language Translator All** | All-in-one translator solution with advanced **image translation** capabilities. | [App Store](https://apps.apple.com/pk/app/language-translator-all/id6503053255) |
+| **13. Hijria** | An Islamic calendar app displaying Hijri dates and important events. | [App Store](https://apps.apple.com/pk/app/hijria/id1623978880) • [Play Store](https://play.google.com/store/apps/details?id=com.jmmtechnologies.hijricalendar&hl=en&gl=US) |
+| **14. Jawline** | Fitness app focused on jawline enhancement through specific exercises and mewing techniques. | [App Store](https://apps.apple.com/pk/app/jawline-face-exercise-mewing/id6478913365) • [Play Store](https://play.google.com/store/apps/details?id=com.jawline.exercise.mewing.jawlineworkout&hl=en&gl=US) |
+| **15. C-Exchange** | A secure platform for buying and selling cryptocurrency with high trust and credibility. | [Play Store](https://play.google.com/store/apps/details?id=com.cexchange.app&hl=en&gl=US) |
+| **16. Snack Video Downloader** | A robust app designed for downloading video content in HD quality. | *Play Store (Title): Snack Video Downloader Link* |
+| **17. Marconni Tennis** | Simple status app for Marconi Tennis Academy lesson schedules. | [Play Store](https://play.google.com/store/apps/details?id=com.status.tennis&hl=en&gl=US) |
+
+### **📚 Education**
+| App Name | Description | Links |
+| :--- | :--- | :--- |
+| **18. Path to Arabic Mobile App**| Gateway to learning the language of the Quran with engaging lessons and tutor support. | *Play Store (Title): Android App* • *App Store (Title): JOS App* |
+| **19. Path to Arabic Web** | Web platform for learning Arabic online with proven courses and video classes. | [Web URL](https://member.pathtoarabic.com/) |
+
+---
+
+## 📈 My GitHub Stats
 
 <div align="center">
-  <img src="GITHUB_STATS_CARD_URL" alt="Fahad Shabir GitHub Stats" />
-  <img src="TOP_LANGUAGES_CARD_URL" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fahadshabeer&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=25&hide=prs&icon_color=0077B5&title_color=0077B5&border_color=9AE1F1" alt="Fahad Shabir GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadshabeer&layout=compact&langs_count=6&theme=dark&title_color=0077B5&border_color=9AE1F1" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fahadshabeer&style=for-the-badge&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=fahadshabeer&style=for-the-badge&color=0077B5" alt="Profile views" />
 </div>
