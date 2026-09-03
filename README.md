@@ -20,7 +20,7 @@
 
 ### 🚀 Senior Flutter Engineer | Architecting Mobile Excellence
 
-I'm a **Senior Flutter Developer** with **4+ years** of hands-on experience in the mobile ecosystem, specializing in building and deploying high-performance, scalable applications for **Android** and **iOS**. My passion is transforming complex business needs into clean, user-centric mobile solutions using **Dart** and the **Flutter framework**.
+I'm a **Senior Flutter Developer** with **5+ years** of hands-on experience in the mobile ecosystem, specializing in building and deploying high-performance, scalable applications for **Android** and **iOS**. My passion is transforming complex business needs into clean, user-centric mobile solutions using **Dart** and the **Flutter framework**.
 
 I thrive on **API integration**, **performance optimization**, and leading development efforts to deliver production-ready apps that genuinely solve problems for users worldwide.
 
