@@ -49,44 +49,104 @@ I thrive on **API integration**, **performance optimization**, and leading devel
 
 ---
 
-## 🌐 My Portfolio: 20+ Published Applications
+## 🌐 My Portfolio: 23+ Published Applications
 
-I have successfully launched numerous complex, feature-rich applications across various domains, including HRM, E-commerce, Education, and Utilities.
+I have successfully developed and launched **23+ production applications** across Android, iOS, and Flutter Web, covering HRM, FinTech, E-commerce, Education, Healthcare & Fitness, Business Management, Productivity, Utilities, and more.
 
-### **🏢 HR & Business Management**
-| App Name | Description | Links |
-| :--- | :--- | :--- |
-| **1. YouFirst HRMS** | Advanced HR app with **facial recognition** and location-based **attendance tracking**. | [Play Store](https://play.google.com/store/apps/details?id=com.jmmtech.hrmemployee.hrm_employee) |
-| **2. HR-Hysabat** | Business HR app for managing employee data, attendance, and payroll operations. | [Play Store](https://play.google.com/store/apps/details?id=com.jmmtechnologies.hrm&hl=en&gl=US) |
-| **3. Isnaad WMS** | Intelligent system for **inventory management**, order processing, and shipping solutions. | [Play Store](https://play.google.com/store/apps/details?id=com.isnaad&hl=en&gl=US) • [App Store](https://apps.apple.com/pk/app/isnaad/id1638320059) |
-| **4. KIU-Student & KIU-Executive** | Student/Executive information system for Kingdom International University (KIU). | [Play Store (Student)](https://play.google.com/store/apps/details?id=com.kiu.sis_student_faculty&hl=en&gl=US) • [Play Store (Executive)](https://play.google.com/store/apps/details?id=com.jmmtechnologies.kiu_sis_ex_fi_sp&hl=en&gl=US) |
+---
 
-### **🛒 E-commerce & Service**
-| App Name | Description | Links |
-| :--- | :--- | :--- |
-| **5. Tojjar Ecommerce** | A complete wholesale e-commerce platform for seamless product browsing and secure payments. | [App Store](https://apps.apple.com/pk/app/tojjar-ecommerce-application/id6450448843) |
-| **6. Tojjar Delivery App**| Multi-portal app (Delivery & Sale Agent) for managing and executing orders. | [App Store](https://apps.apple.com/pk/app/tojjar-delivery-application/id6450411233) |
-| **7. AlRawdh** | Online cosmetic shopping app featuring skincare, makeup, and fragrances. | [App Store](https://apps.apple.com/pk/app/alrawdh/id6446835257) |
-| **8. Happy Helper** | Service app providing house-keeping, babysitting, nannies, and event support. | [Play Store](https://play.google.com/store/apps/details?id=com.happyhelper.app) |
+### 🏢 HR, Business & Enterprise Applications
 
-### **🧠 Productivity, Utilities & Lifestyle**
-| App Name | Description | Links |
-| :--- | :--- | :--- |
-| **9. CV Maker (AI-powered)** | An AI-powered resume builder with professional, customizable templates. | *App Store (Title): CV Maker - Al Resume Builder* |
-| **10. Smart Resume Builder** | A utility tool with various templates for quickly crafting professional resumes. | [Play Store](https://play.google.com/store/apps/details?id=com.resumebuilder.cvmaker.cvtemplate.resumetemplate&hl=en&gl=US) |
-| **11. Password Manager** | Secure app with auto-fill, password generation, and encryption. | [Play Store](https://play.google.com/store/apps/details?id=com.autopasswordmanager.lastpasswordsaver&hl=en&gl=US) |
-| **12. Language Translator All** | All-in-one translator solution with advanced **image translation** capabilities. | [App Store](https://apps.apple.com/pk/app/language-translator-all/id6503053255) |
-| **13. Hijria** | An Islamic calendar app displaying Hijri dates and important events. | [App Store](https://apps.apple.com/pk/app/hijria/id1623978880) • [Play Store](https://play.google.com/store/apps/details?id=com.jmmtechnologies.hijricalendar&hl=en&gl=US) |
-| **14. Jawline** | Fitness app focused on jawline enhancement through specific exercises and mewing techniques. | [App Store](https://apps.apple.com/pk/app/jawline-face-exercise-mewing/id6478913365) • [Play Store](https://play.google.com/store/apps/details?id=com.jawline.exercise.mewing.jawlineworkout&hl=en&gl=US) |
-| **15. C-Exchange** | A secure platform for buying and selling cryptocurrency with high trust and credibility. | [Play Store](https://play.google.com/store/apps/details?id=com.cexchange.app&hl=en&gl=US) |
-| **16. Snack Video Downloader** | A robust app designed for downloading video content in HD quality. | *Play Store (Title): Snack Video Downloader Link* |
-| **17. Marconni Tennis** | Simple status app for Marconi Tennis Academy lesson schedules. | [Play Store](https://play.google.com/store/apps/details?id=com.status.tennis&hl=en&gl=US) |
+| # | App Name | Description | Links |
+| :--- | :--- | :--- | :--- |
+| **1** | **YouFirst HRMS** | Enterprise HR management app featuring facial-recognition and location-based attendance, payslips, employee requests, company announcements, and employee communication. | [Play Store](https://play.google.com/store/apps/details?id=com.jmmtech.hrmemployee.hrm_employee) |
+| **2** | **HR-Hysabat** | Human Resource Management application for managing employee data, attendance, payroll, and other HR operations. | [Play Store](https://play.google.com/store/apps/details?id=com.jmmtechnologies.hrm&hl=en&gl=US) |
+| **3** | **Isnaad WMS** | Warehouse Management System for inventory management, order processing, shipping, and related business operations. | [Play Store](https://play.google.com/store/apps/details?id=com.isnaad&hl=en&gl=US) • [App Store](https://apps.apple.com/pk/app/isnaad/id1638320059) |
+| **4** | **KIU – Student** | Student Information System for course registration, grades, academic updates, and student-related university services. | [Play Store](https://play.google.com/store/apps/details?id=com.kiu.sis_student_faculty&hl=en&gl=US) |
+| **5** | **KIU – Executive** | University management application covering finances, admissions, academics, schedules, course materials, grades, and exams. | [Play Store](https://play.google.com/store/apps/details?id=com.jmmtechnologies.kiu_sis_ex_fi_sp&hl=en&gl=US) |
 
-### **📚 Education**
-| App Name | Description | Links |
-| :--- | :--- | :--- |
-| **18. Path to Arabic Mobile App**| Gateway to learning the language of the Quran with engaging lessons and tutor support. | *Play Store (Title): Android App* • *App Store (Title): JOS App* |
-| **19. Path to Arabic Web** | Web platform for learning Arabic online with proven courses and video classes. | [Web URL](https://member.pathtoarabic.com/) |
+---
+
+### 🛒 E-Commerce, POS & Delivery
+
+| # | App Name | Description | Links |
+| :--- | :--- | :--- | :--- |
+| **6** | **Tojjar Ecommerce** | Wholesale e-commerce platform for browsing products, categories, ordering, and secure payments. | [App Store](https://apps.apple.com/pk/app/tojjar-ecommerce-application/id6450448843) |
+| **7** | **Tojjar Delivery App** | Multi-portal application for delivery agents and sales agents to manage deliveries, customers, and merchant registration. | [App Store](https://apps.apple.com/pk/app/tojjar-delivery-application/id6450411233) |
+| **8** | **AlRawdh** | Online cosmetics shopping application featuring skincare, makeup, haircare products, and fragrances. | [App Store](https://apps.apple.com/pk/app/alrawdh/id6446835257) |
+| **9** | **Happy Helpers** | Service marketplace application offering housekeeping, babysitting, nanny, event, and bespoke support services. | [Play Store](https://play.google.com/store/apps/details?id=com.happyhelper.app) |
+| **10** | **Kejabii – Sell Online & In Store** | All-in-one business platform combining online store, mobile POS, inventory management, order tracking, payments, sales reporting, and business management. | [Google Play](https://play.google.com/store/apps/details?id=com.cloudlaunch.kejabii) • [App Store](https://apps.apple.com/us/app/kejabii-online-store-pos/id6773234875) |
+
+---
+
+### 💰 FinTech & Financial Applications
+
+| # | App Name | Description | Links |
+| :--- | :--- | :--- | :--- |
+| **11** | **C-Exchange – Buy & Sell Crypto** | Cryptocurrency platform focused on secure and reliable crypto buying and selling services. | [Play Store](https://play.google.com/store/apps/details?id=com.cexchange.app&hl=en&gl=US) |
+| **12** | **MRL Finance – Admin** | Financial back-office application for customer onboarding, KYC, vehicle approvals, credit agreements, repayment schedules, payment collection, and operational reporting. | [Google Play](https://play.google.com/store/apps/details?id=com.cloudlaunch.mrl) |
+| **13** | **MRL Finance – Customer** | Customer financing application for viewing repayment schedules, vehicle financing details, statements, referrals, and M-Pesa STK Push payments. | [Google Play](https://play.google.com/store/apps/details?id=com.cloudlaunch.mrl.customer) |
+
+---
+
+### 📚 Education & Learning
+
+| # | App Name | Description | Links |
+| :--- | :--- | :--- | :--- |
+| **14** | **Path to Arabic – Flutter Web** | Arabic learning web platform providing Arabic courses, video classes, and Quran-focused language learning. | [Web App](https://member.pathtoarabic.com/) |
+| **15** | **Path to Arabic – Mobile App** | Arabic learning mobile application with structured lessons, video tutorials, practice activities, progress tracking, and live tutor support. | [Google Play](https://play.google.com/store/apps/details?id=com.path.to.arabic) • [App Store](https://apps.apple.com/us/app/path-to-arabic/id6741145209) |
+
+---
+
+### 🧠 Productivity, Resume & Utility Applications
+
+| # | App Name | Description | Links |
+| :--- | :--- | :--- | :--- |
+| **16** | **CV Maker – AI Resume Builder** | AI-powered resume builder for creating professional CVs using customizable templates. | *Store URL not available in original CV* |
+| **17** | **Smart Resume Builder** | Resume creation utility offering multiple templates and customization options for creating professional resumes. | [Play Store](https://play.google.com/store/apps/details?id=com.resumebuilder.cvmaker.cvtemplate.resumetemplate&hl=en&gl=US) |
+| **18** | **Password Manager** | Secure password management application featuring password storage, password generation, and autofill capabilities. | [Play Store](https://play.google.com/store/apps/details?id=com.autopasswordmanager.lastpasswordsaver&hl=en&gl=US) |
+| **19** | **Language Translator All** | Translation application supporting text, documents, and image-based translation across multiple languages. | [Play Store](https://play.google.com/store/apps/details?id=com.languagetranslator.englishtranslator.imagetranslator) • [App Store](https://apps.apple.com/pk/app/language-translator-all/id6503053255) |
+| **20** | **Hijria** | Islamic calendar application displaying Hijri dates, Islamic events, and important religious dates. | [Play Store](https://play.google.com/store/apps/details?id=com.jmmtechnologies.hijricalendar&hl=en&gl=US) • [App Store](https://apps.apple.com/pk/app/hijria/id1623978880) |
+
+---
+
+### 🏋️ Fitness & Lifestyle
+
+| # | App Name | Description | Links |
+| :--- | :--- | :--- | :--- |
+| **21** | **Jawline – Face Exercise & Mewing** | Fitness application focused on jawline enhancement through guided exercises and mewing techniques. | [Google Play](https://play.google.com/store/apps/details?id=com.jawline.exercise.mewing.jawlineworkout&hl=en&gl=US) • [App Store](https://apps.apple.com/pk/app/jawline-face-exercise-mewing/id6478913365) |
+| **22** | **Marconni Tennis** | Tennis academy status application that informs users whether tennis lessons are currently on or off. | [Play Store](https://play.google.com/store/apps/details?id=com.status.tennis&hl=en&gl=US) |
+
+---
+
+### 🎬 Media & Video Utilities
+
+| # | App Name | Description | Links |
+| :--- | :--- | :--- | :--- |
+| **23** | **Snack Video Downloader** | Video downloading utility designed for downloading social video content in HD quality. | *Store URL not available in original CV* |
+
+---
+
+### 🚀 Additional Project Experience
+
+Beyond the projects listed above, I have worked across multiple production applications involving:
+
+- 📱 Android & iOS development
+- 🌐 Flutter Web
+- 🔐 Authentication & security
+- 💳 Payment integrations
+- 💰 In-App Purchases & Subscriptions
+- 📍 Google Maps & location services
+- 🔔 Push Notifications
+- 📊 Analytics
+- 📦 Inventory & warehouse management
+- 🛒 E-commerce & POS
+- 👥 HRM & employee management
+- 💵 FinTech & payment systems
+- 🎓 Education platforms
+- 🤖 AI-powered applications
+- 🌍 Multi-language & localization
+- 🚀 Google Play & App Store deployment
 
 ---
 
