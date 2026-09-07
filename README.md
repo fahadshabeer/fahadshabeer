@@ -102,7 +102,7 @@ I have successfully developed and launched **23+ production applications** acros
 
 | # | App Name | Description | Links |
 | :--- | :--- | :--- | :--- |
-| **16** | **CV Maker – AI Resume Builder** | AI-powered resume builder for creating professional CVs using customizable templates. | *Store URL not available in original CV* |
+| **16** | **CV Maker – AI Resume Builder** | AI-powered resume builder for creating professional CVs using customizable templates. | *Missing* |
 | **17** | **Smart Resume Builder** | Resume creation utility offering multiple templates and customization options for creating professional resumes. | [Play Store](https://play.google.com/store/apps/details?id=com.resumebuilder.cvmaker.cvtemplate.resumetemplate&hl=en&gl=US) |
 | **18** | **Password Manager** | Secure password management application featuring password storage, password generation, and autofill capabilities. | [Play Store](https://play.google.com/store/apps/details?id=com.autopasswordmanager.lastpasswordsaver&hl=en&gl=US) |
 | **19** | **Language Translator All** | Translation application supporting text, documents, and image-based translation across multiple languages. | [Play Store](https://play.google.com/store/apps/details?id=com.languagetranslator.englishtranslator.imagetranslator) • [App Store](https://apps.apple.com/pk/app/language-translator-all/id6503053255) |
@@ -123,7 +123,7 @@ I have successfully developed and launched **23+ production applications** acros
 
 | # | App Name | Description | Links |
 | :--- | :--- | :--- | :--- |
-| **23** | **Snack Video Downloader** | Video downloading utility designed for downloading social video content in HD quality. | *Store URL not available in original CV* |
+| **23** | **Snack Video Downloader** | Video downloading utility designed for downloading social video content in HD quality. | *Missing* |
 
 ---
 
