@@ -24,6 +24,37 @@ I'm a **Senior Flutter Developer** with **5+ years** of hands-on experience in t
 
 I thrive on **API integration**, **performance optimization**, and leading development efforts to deliver production-ready apps that genuinely solve problems for users worldwide.
 
+I also build full-stack web applications and the backends behind them: the interface, the API, the database, and payments.
+
+---
+
+## Full-stack web apps and backends
+
+These are web products where the application and the backend were both part of the build. That means the screens, the API, the database, and the payment flow.
+
+### MemberFlo
+
+A membership CRM for running customers, plans, invoices, staff, and revenue from one desk. The web app is Next.js and TypeScript. The backend is Supabase: PostgreSQL, Auth, and Edge Functions. Stripe handles checkout and renewals. Reports, roles, and payment recovery read from that same database.
+
+`Next.js` · `TypeScript` · `TanStack Query` · `Supabase` · `PostgreSQL` · `Stripe`
+
+Screens below are from the staging environment.
+
+<p>
+  <img src="assets/memberflo/dashboard.png" alt="MemberFlo dashboard with monthly revenue, registrations, and customer status" width="900">
+</p>
+
+<table>
+  <tr>
+    <td width="50%"><img src="assets/memberflo/payments.png" alt="MemberFlo payments ledger with totals and daily groups" width="100%"></td>
+    <td width="50%"><img src="assets/memberflo/reports.png" alt="MemberFlo revenue report with MRR over time" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="assets/memberflo/users.png" alt="MemberFlo customer list with plan, status, and payments" width="100%"></td>
+    <td width="50%"><img src="assets/memberflo/products.png" alt="MemberFlo product catalog with billing terms" width="100%"></td>
+  </tr>
+</table>
+
 ---
 
 ## 🛠️ My Expert Toolkit
@@ -32,6 +63,7 @@ I thrive on **API integration**, **performance optimization**, and leading devel
 | :--- | :--- |
 | **Framework & Language** | `Flutter` • `Dart` 💙 |
 | **State Management** | `Bloc Cubit` • `GetX` • `Provider` ✨ |
+| **Web & backend** | `Next.js` • `TypeScript` • `Supabase` • `PostgreSQL` • `Stripe` |
 | **Backend & Cloud** | `Firebase Auth` • `Rest API's Integration` ☁️ |
 | **App Capabilities** | `Push Notification` • `Google Maps` • `Localisation` 🌐 |
 | **Monetization** | `InApp purchases/Subscription` • `AdMob Integration` 💰 |
