@@ -77,11 +77,46 @@ Vehicle-finance admin for customers, credit, payments, vehicles, and reports.
 
 ## 💼 Career Highlights
 
-* **Senior Flutter Engineer** | CloudLaunch (London, UK - REMOTE)
-    * Developing and maintaining core mobile and **Flutter web applications**, focusing on robust performance and scalability.
-* **Part Time Mobile Developer & Maintainer** | Happy Helpers LLC (Dubai, UAE - REMOTE)
-    * **Built the Happy Helpers app from scratch** and managed its full lifecycle, including feature development and team mentorship.
-* *Expertise:* Strong proficiency in leading teams, mentoring junior developers, and ensuring superior code quality.
+### Senior Flutter Engineer · CloudLaunch
+London, UK · Remote · Dec 2024 – Present
+
+* Develop and maintain production Flutter apps on Android, iOS, and web, with the work aimed at performance, scale, and code that stays maintainable.
+* Shape cross-platform features so the same patterns can be reused as the product grows.
+* Work with product, design, and backend to turn requirements into releases.
+* Keep the standard high through code reviews and shared engineering practice.
+* Find the hard bugs and the slow paths, then ship the fix.
+
+### Part Time Mobile Developer · Happy Helpers LLC
+Dubai, UAE · Remote · Aug 2022 – Dec 2025
+
+* Built the Happy Helpers app from the ground up, then stayed on for maintenance after launch.
+* Led and mentored the Flutter developers, and kept the quality bar in reviews.
+* Worked with design and backend so each feature matched the product and held up in use.
+* Owned the path from development and testing through release, support, and the next update.
+
+### Lead Flutter Developer · Grace Technologies
+Rawalpindi, Pakistan · May 2023 – Oct 2024
+
+* Led the Flutter developers with technical guidance and code reviews.
+* Designed the harder features with scale and performance in mind.
+* Worked across teams to define a feature, build it, and ship it.
+* Carried apps from development and testing through release and support, and set the coding standards the team kept.
+
+### Senior Flutter Developer · JMM Technologies
+Peshawar, Pakistan · May 2022 – May 2023
+
+* Built and maintained Flutter apps for Android and iOS, with attention on performance and reliability.
+* Turned product requirements into working features and screens that followed the design.
+* Took features through development, testing, deployment, and maintenance.
+* Cleared bugs and performance bottlenecks, and kept the work in line with current Flutter practice.
+
+### Junior Flutter Developer · Software Development Hub
+Islamabad, Pakistan · Sep 2021 – May 2022
+
+* Built and maintained Flutter apps for Android and iOS.
+* Implemented the screens from the designs and picked up day-to-day feature work.
+* Tested, debugged, and tightened performance and stability.
+* Stayed with the work from implementation through release and maintenance.
 
 ---
 
