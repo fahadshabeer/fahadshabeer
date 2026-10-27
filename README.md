@@ -55,6 +55,27 @@ Screens below are from the staging environment.
   </tr>
 </table>
 
+### MRL Finance
+
+The vehicle-finance admin. Staff sign in, then work through customers, credit, payments, vehicles, and reports. The app is Next.js and TypeScript. Screens below are from the test account.
+
+`Next.js` · `TypeScript` · `React`
+
+<p>
+  <img src="assets/mrl/dashboard.png" alt="MRL Finance dashboard" width="900">
+</p>
+
+<table>
+  <tr>
+    <td width="50%"><img src="assets/mrl/customers.png" alt="MRL Finance customers" width="100%"></td>
+    <td width="50%"><img src="assets/mrl/payments.png" alt="MRL Finance payments" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="assets/mrl/vehicles.png" alt="MRL Finance vehicles" width="100%"></td>
+    <td width="50%"><img src="assets/mrl/reports.png" alt="MRL Finance reports" width="100%"></td>
+  </tr>
+</table>
+
 ---
 
 ## 🛠️ My Expert Toolkit
