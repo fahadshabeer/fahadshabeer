@@ -24,57 +24,39 @@ I'm a **Senior Flutter Developer** with **5+ years** of hands-on experience in t
 
 I thrive on **API integration**, **performance optimization**, and leading development efforts to deliver production-ready apps that genuinely solve problems for users worldwide.
 
-I also build full-stack web applications and the backends behind them: the interface, the API, the database, and payments.
+I also build full-stack web applications.
 
 ---
 
-## Full-stack web apps and backends
-
-These are web products where the application and the backend were both part of the build. That means the screens, the API, the database, and the payment flow.
+## Full-stack web apps
 
 ### MemberFlo
 
-A membership CRM for running customers, plans, invoices, staff, and revenue from one desk. The web app is Next.js and TypeScript. The backend is Supabase: PostgreSQL, Auth, and Edge Functions. Stripe handles checkout and renewals. Reports, roles, and payment recovery read from that same database.
+A membership CRM for customers, plans, invoices, staff, and revenue.
 
 `Next.js` · `TypeScript` · `TanStack Query` · `Supabase` · `PostgreSQL` · `Stripe`
 
-Screens below are from the staging environment.
-
 <p>
-  <img src="assets/memberflo/dashboard.png" alt="MemberFlo dashboard with monthly revenue, registrations, and customer status" width="900">
+  <a href="assets/memberflo/dashboard.png"><img src="assets/memberflo/dashboard.png" alt="MemberFlo dashboard" width="160"></a>
+  <a href="assets/memberflo/payments.png"><img src="assets/memberflo/payments.png" alt="MemberFlo payments" width="160"></a>
+  <a href="assets/memberflo/reports.png"><img src="assets/memberflo/reports.png" alt="MemberFlo reports" width="160"></a>
+  <a href="assets/memberflo/users.png"><img src="assets/memberflo/users.png" alt="MemberFlo customers" width="160"></a>
+  <a href="assets/memberflo/products.png"><img src="assets/memberflo/products.png" alt="MemberFlo products" width="160"></a>
 </p>
-
-<table>
-  <tr>
-    <td width="50%"><img src="assets/memberflo/payments.png" alt="MemberFlo payments ledger with totals and daily groups" width="100%"></td>
-    <td width="50%"><img src="assets/memberflo/reports.png" alt="MemberFlo revenue report with MRR over time" width="100%"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="assets/memberflo/users.png" alt="MemberFlo customer list with plan, status, and payments" width="100%"></td>
-    <td width="50%"><img src="assets/memberflo/products.png" alt="MemberFlo product catalog with billing terms" width="100%"></td>
-  </tr>
-</table>
 
 ### MRL Finance
 
-The vehicle-finance admin. Staff sign in, then work through customers, credit, payments, vehicles, and reports. The app is Next.js and TypeScript. Screens below are from the test account.
+Vehicle-finance admin for customers, credit, payments, vehicles, and reports.
 
 `Next.js` · `TypeScript` · `React`
 
 <p>
-  <img src="assets/mrl/dashboard.png" alt="MRL Finance dashboard" width="900">
+  <a href="assets/mrl/dashboard.png"><img src="assets/mrl/dashboard.png" alt="MRL Finance dashboard" width="160"></a>
+  <a href="assets/mrl/customers.png"><img src="assets/mrl/customers.png" alt="MRL Finance customers" width="160"></a>
+  <a href="assets/mrl/payments.png"><img src="assets/mrl/payments.png" alt="MRL Finance payments" width="160"></a>
+  <a href="assets/mrl/vehicles.png"><img src="assets/mrl/vehicles.png" alt="MRL Finance vehicles" width="160"></a>
+  <a href="assets/mrl/reports.png"><img src="assets/mrl/reports.png" alt="MRL Finance reports" width="160"></a>
 </p>
-
-<table>
-  <tr>
-    <td width="50%"><img src="assets/mrl/customers.png" alt="MRL Finance customers" width="100%"></td>
-    <td width="50%"><img src="assets/mrl/payments.png" alt="MRL Finance payments" width="100%"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="assets/mrl/vehicles.png" alt="MRL Finance vehicles" width="100%"></td>
-    <td width="50%"><img src="assets/mrl/reports.png" alt="MRL Finance reports" width="100%"></td>
-  </tr>
-</table>
 
 ---
 
@@ -83,8 +65,9 @@ The vehicle-finance admin. Staff sign in, then work through customers, credit, p
 | Category | Skills & Tools |
 | :--- | :--- |
 | **Framework & Language** | `Flutter` • `Dart` 💙 |
+| **Secondary** | `Java` • `JavaFX` • `Java Android` • `Java Swing` • `Python` • `Flask` |
 | **State Management** | `Bloc Cubit` • `GetX` • `Provider` ✨ |
-| **Web & backend** | `Next.js` • `TypeScript` • `Supabase` • `PostgreSQL` • `Stripe` |
+| **Web** | `Next.js` • `TypeScript` • `Supabase` • `PostgreSQL` • `Stripe` |
 | **Backend & Cloud** | `Firebase Auth` • `Rest API's Integration` ☁️ |
 | **App Capabilities** | `Push Notification` • `Google Maps` • `Localisation` 🌐 |
 | **Monetization** | `InApp purchases/Subscription` • `AdMob Integration` 💰 |
